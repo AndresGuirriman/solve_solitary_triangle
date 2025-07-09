@@ -26,7 +26,13 @@ def is_lower_triangle(matrix):
     return True
 
 def n_per_file(matrix):
-
+    # Esta funcion entregara el numero de valores en cada fila
+    
+    filas = matrix.shape[0]
     n = 0
+    diccionario = {}
+    for i in range(filas):
+
+        return
 
     return

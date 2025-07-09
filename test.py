@@ -3,7 +3,7 @@ import pandas as pd
 import config
 import functions
 
-print(config.C[3])
+print()
 print(functions.is_lower_triangle(config.A))
 print(functions.is_lower_triangle(config.B))
 print(functions.is_lower_triangle(config.C))
