@@ -36,3 +36,6 @@ def n_per_file(matrix):
         return
 
     return
+
+def delete_n(matrix, n):
+    return
